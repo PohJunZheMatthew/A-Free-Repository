@@ -1,5 +1,5 @@
-# A prime number is a natural number which has exactly two distinct natural number divisors: 1 and itself. The first prime number is 2.
-# Write a program that computes the n-th prime number, given 1 ≤ n ≤ 30000?
+## A prime number is a natural number which has exactly two distinct natural number divisors: 1 and itself. The first prime number is 2.
+## Write a program that computes the n-th prime number, given 1 ≤ n ≤ 30000?
 
 ## TestCases
 
