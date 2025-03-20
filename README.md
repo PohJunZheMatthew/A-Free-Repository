@@ -4,5 +4,5 @@ It has random challenges such as Hello-world.
 The goal of Hello-world challenge is to find all possible ways to say Hello world in every programming language.
 More challenges are on the way.
 
-Staff:
+Admin(s):
 1. Matthew Poh
