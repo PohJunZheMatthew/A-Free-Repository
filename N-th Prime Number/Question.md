@@ -3,15 +3,15 @@
 
 ## TestCases
 
-### Example 1
-### INPUT: 30
-### OUTPUT: 113
+#### Example 1
+#### INPUT: 30
+#### OUTPUT: 113
 
 
-### Example 2
-### INPUT: 10000
-### OUTPUT: 104729
+#### Example 2
+#### INPUT: 10000
+#### OUTPUT: 104729
 
-### Example 3
-### INPUT: 30000
-### OUTPUT: 350377
+#### Example 3
+#### INPUT: 30000
+#### OUTPUT: 350377
