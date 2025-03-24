@@ -7,7 +7,7 @@ currentNum = 2
 def isPrime(n):
     is_prime = True
     if n <= 1:
-        is_Prime = False
+        is_prime = False
     else:
         is_prime = True
         for i in range(2, int(math.sqrt(n)) + 1):
